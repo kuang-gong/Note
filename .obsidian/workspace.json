@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "字符串.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "字符串"
             }
           }
         ]
@@ -198,10 +198,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "4293d71e83a08b29",
+  "active": "2834e3bd349cda02",
   "lastOpenFiles": [
-    "学习笔记/Git.md",
     "README.md",
+    "字符串.md",
+    "学习笔记/Git.md",
     "欢迎.md",
     "学习笔记",
     "1.md"
