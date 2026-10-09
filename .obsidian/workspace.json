@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "学习笔记/C++作业3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "C++作业3"
             }
           }
         ]
@@ -198,11 +198,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "4293d71e83a08b29",
+  "active": "2834e3bd349cda02",
   "lastOpenFiles": [
+    "Pasted image 20261009135751.png",
     "学习笔记/字符串.md",
-    "README.md",
+    "学习笔记/C++作业3.md",
+    "C++作业3.md",
     "学习笔记/Git.md",
+    "README.md",
     "欢迎.md",
     "学习笔记",
     "1.md"
